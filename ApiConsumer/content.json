@@ -1,0 +1,15 @@
+{
+  "args": {
+    "Curso": "Python", 
+    "Nombre": "Gio"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.org", 
+    "User-Agent": "python-requests/2.23.0", 
+    "X-Amzn-Trace-Id": "Root=1-5ec1bcd5-57e491dd9c9536cbc3a8b26e"
+  }, 
+  "origin": "186.28.54.108", 
+  "url": "http://httpbin.org/get?Nombre=Gio&Curso=Python"
+}
