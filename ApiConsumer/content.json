@@ -8,8 +8,8 @@
     "Accept-Encoding": "gzip, deflate", 
     "Host": "httpbin.org", 
     "User-Agent": "python-requests/2.23.0", 
-    "X-Amzn-Trace-Id": "Root=1-5ec1bcd5-57e491dd9c9536cbc3a8b26e"
+    "X-Amzn-Trace-Id": "Root=1-5efb7d46-58408d7a1e7568e6044a2cbe"
   }, 
-  "origin": "186.28.54.108", 
+  "origin": "186.155.51.155", 
   "url": "http://httpbin.org/get?Nombre=Gio&Curso=Python"
 }

@@ -32,5 +32,5 @@ def methodPost():
         print(headersResponse)
 
 if __name__ == "__main__":
-    #methodGet()
-    methodPost()
+    methodGet()
+    #methodPost()
